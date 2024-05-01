@@ -1,0 +1,49 @@
+Część pierwsza:
+S - Strengths :
+-Obecność doświadczonego senior programisty może zapewnić stabilność i jakość rozwoju oprogramowania.
+-Dzięki sprzedaży i utrzymaniu oprogramowania firma ma zapewniony stały dochód, co może zapewnić stabilność finansową.
+-Posiadanie zróżnicowanej kadry programistów o różnym poziomie doświadczenia może umożliwić elastyczność w podejściu do różnych projektów i zadaniach.
+
+W - Weaknesses:
+-Mała liczba programistów może ograniczać skalowalność i elastyczność firmy w obsłudze większych projektów lub zwiększeniu liczby klientów.
+-Brak różnorodności w zespole programistów może prowadzić do ograniczeń w podejściu do problemów i innowacji.
+-Silne uzależnienie od jednego produktu (oprogramowania) może zwiększać ryzyko w przypadku spadku popytu lub konkurencji.
+
+O - Opportunities:
+-Istnieje szansa na rozwinięcie nowych produktów lub funkcji, które mogą zwiększyć bazę klientów i dochody firmy.
+-Firma może rozważyć rozszerzenie swojego zasięgu na inne rynki lub regiony, co może prowadzić do wzrostu sprzedaży i rozpoznawalności marki.
+-Możliwość inwestowania w rozwój personelu poprzez szkolenia i kursy może przyczynić się do podnoszenia umiejętności zespołu i zwiększenia konkurencyjności firmy.
+
+T - Threats:
+-Rynek oprogramowania jest konkurencyjny, więc istnieje ryzyko utraty klientów na rzecz konkurencji.
+-Szybkie zmiany w technologii mogą prowadzić do szybkiego przestarzania się obecnych rozwiązań, co może wymagać ciągłego dostosowywania się firmy do nowych trendów.
+-Firma ma siedzibę w Morągu, co może ograniczać zasięg i możliwości rozwoju, zwłaszcza jeśli lokalizacja nie jest strategicznie korzystna dla zdobycia nowych klientów.
+
+Część druga
+
+S - Strengths : suma 5
+Doświadczenie senior programisty: +2
+Stały dochód z oprogramowania: +2
+Zróżnicowana kadra programistów: +1
+
+W - Weaknesses: suma -3
+Mała liczba pracowników: -1
+Brak różnorodności w zespole: -1
+Zależność od pojedynczego produktu: -1
+
+O - Opportunities: suma 5
+Rozwój nowych produktów: +2
+Rozszerzenie rynku: +1
+Inwestycje w rozwój personelu: +2
+
+T - Threats: suma -4
+Konkurencja: -2
+Zmiany technologiczne: -1
+Zależność od lokalizacji: -1
+
+S i O suma = 10
+W i T suma = -7
+
+Strategia Agresywna
+
+Otrzymujemy dodatni wynik co znaczy, że firma posiada solidne podstawy, ale musi aktywnie zarządzać swoimi słabościami i wykorzystywać szanse na rozwój, aby utrzymać swoją konkurencyjność na rynku. Warto również rozważyć strategie dywersyfikacji i innowacji, aby zminimalizować ryzyko związane z zależnością od pojedynczego produktu oraz konkurencją.
